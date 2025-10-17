@@ -4,6 +4,10 @@ p{
     margin-bottom: 0px;
 }
 
+a{
+    text-decoration: none;
+}
+
 body{
     margin: 0;
     padding-top: 80px;
